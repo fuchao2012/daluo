@@ -19,6 +19,8 @@ module.exports = {
     'rules': {
         'indent': 0,
         'eol-last': 0,
+        'space-before-function-paren': 0,
+        'space-before-blocks': 0,
         // allow paren-less arrow functions
         'arrow-parens': 0,
         // allow async-await
